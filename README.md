@@ -22,12 +22,21 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## 📚 İzmir
 
-| Konum                             | İsim                | Kategoriler | Priz                   |   WIFI   |  WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi     |
-|-----------------------------------|---------------------|-------------|------------------------|----------|-------------|------------------|------------------|----------------------|
-| Bostanlı İskele                   | Varuna Gezgin       | -           | Çoğu masada mevcut     |  Mevcut  |     40 Mbps |       5/10       |   09:00 - 01:00  | @varunagezgin        |
-| Narlıdere                         | Starbucks           | -           | Çoğu masada mevcut     |  Mevcut  |     30 Mbps |       2/10       |   09:00 - 14:00  | @starbucks_tr        |
-| Narlıdere - DEU GSF Karşısı       | Pablo Artisan Kafe  | -           | Duvar kenarı masalarda |  Mevcut  |     50 Mbps |       2/10       |   09:00 - 21:00  | @pabloartisancoffee  |
-| Kıbrıs Şehitleri - Sevinç Karşısı | Starbucks           | -           | Çoğu masada mevcut     |  Mevcut  |  10-25 Mbps |       7/10       |   08:00 - 22:00  | @starbucks_tr        |
+| Konum                             | İsim                | Kategoriler | Priz                   |   WIFI   |  WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi     | Haritalar  |
+|-----------------------------------|---------------------|-------------|------------------------|----------|-------------|------------------|------------------|----------------------| -   |
+| Bostanlı İskele                   | Varuna Gezgin       | -           | Çoğu masada mevcut     |  Mevcut  |     40 Mbps |       5/10       |   09:00 - 01:00  | @varunagezgin        | -   |
+| Narlıdere                         | Starbucks           | -           | Çoğu masada mevcut     |  Mevcut  |     30 Mbps |       2/10       |   09:00 - 14:00  | @starbucks_tr        | -   |
+| Narlıdere - DEU GSF Karşısı       | Pablo Artisan Kafe  | -           | Duvar kenarı masalarda |  Mevcut  |     50 Mbps |       2/10       |   09:00 - 21:00  | @pabloartisancoffee  | -   |
+| Kıbrıs Şehitleri - Sevinç Karşısı | Starbucks           | -           | Çoğu masada mevcut     |  Mevcut  |  10-25 Mbps |       7/10       |   08:00 - 22:00  | @starbucks_tr        | -   |
+| Bornova - Passage                 | Chia Coffee & Bakery         | -           | Bütün masalarda mevcut     |  Mevcut  |  50 Mbps |       2/10       |   08:00 - 01:00  | @chiacoffeeandbakery        | https://goo.gl/maps/3N3VavR9Rrjei1d16   |
+| Bornova - Passage                 | Tuck Coffee x Etc Passage         | -           | İçerideki masalarda mevcut     |  Mevcut  |  - |       5/10       |   08:00 - 23:00  | @tuckcoffee        | https://goo.gl/maps/588XzoS2tfpoFhoFA   |
+| Bornova - Küçükpark                 | Tuck Coffee x Etc Passage         | -           | İçerideki masalarda mevcut     |  Mevcut  |  - |       7/10       |   09:00 - 00:00  | @tuckcoffee        | https://goo.gl/maps/4zhou6YJsAzzvG6r8   |
+| Bornova - Küçükpark                 | Vintage         | -           | Duvar kenarı masalarda     |  Mevcut  |  - |       6/10       |   09:00 - 23:00  | -        | https://goo.gl/maps/bFFsG1QabPj8Fuo96   |
+| Bayraklı - Özkanlar                 | Alien Co. Kafe/Tattoo       | -           | Bütün masalarda mevcut     |  Mevcut  |  50-100 Mbps |  1/10       |   08:00 - 00:00  | @colony.alien   | https://goo.gl/maps/tsR1ByymX6cBTnT97   |
+| Bayraklı - Özkanlar                 | Brew Mood Coffee&Tea      | -           | Çoğu masada mevcut     |  Mevcut  |   10-25 Mbps |       6/10       |   08:00 - 00:00  | @colony.alien   | https://goo.gl/maps/CKxvAXC6ekAJarqZA  |
+| Bayraklı - Özkanlar                 | Soulmate Coffee (%10 Yaşar Üni. indirimi)      | -           | Duvar kenarı masalarda     |  Mevcut  |   10-25 Mbps | 8/10     |   09:00 - 00:00  | @soulmatetr | https://goo.gl/maps/9HMihoPjtdiogyfd9  | 
+| Alsancak | Caribou Coffee Gündoğdu Şubesi      | -           | Çoğu masada mevcut   |  Mevcut  |   30 Mbps | 3/10     |   08:30 - 23:30  | @cariboucoffeetr | https://goo.gl/maps/PcutcQiRfvkFNe578  | 
+| Bostanlı İskele | Caribou Coffee Gündoğdu Şubesi      | -           | Çoğu masada mevcut   |  Mevcut  |   30 Mbps | 3/10     |   09:30 - 23:00  | @cariboucoffeetr | https://goo.gl/maps/Wseoq8VRNsZQkXVQA  | 
 
 
 ## 📚 İstanbul
